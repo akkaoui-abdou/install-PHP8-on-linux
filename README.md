@@ -1,5 +1,3 @@
-# install-PHP8-on-linux
-
 
 # Remove PHP in linux
 -----------------
