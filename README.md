@@ -18,6 +18,11 @@
     $ php -m
 
 
+# Install Symfony CLI
+----------------
+    $ wget https://get.symfony.com/cli/installer -O - | bash
+    $ curl -sS https://get.symfony.com/cli/installer | bash
+
 # Install Symfony
 ------------------
 
