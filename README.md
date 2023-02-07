@@ -6,7 +6,7 @@
     $ sudo apt-get autoclean
     $ sudo apt-get autoremove
 
-# Install PHP in lunux
+# Install PHP in linux
 -----------
 
     $ sudo apt update && apt upgrade -y
